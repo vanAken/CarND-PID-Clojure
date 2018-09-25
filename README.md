@@ -13,21 +13,21 @@ All thanks to Eric Lavigne: He's a great software architect.
 I did this process by hand. First search find good values for P and D while I is still zero at 30mph.
 This is the case at 30mph for example 
 
-####P = 0.1
-####D = 2.0
-####I = 0.0
+**P = 0.1**
+**D = 2.0**
+**I = 0.0**
  
 For a speed of 60mph increase the D value, while lowering the P value.A small I value improves the result a bit.
 
-####P = 0.05
-####D = 4.0
-####I = 0.001
+**P = 0.05**
+**D = 4.0**
+**I = 0.001**
 
 Finaly at 70mph a optimal value of I is neccesary to drive around the corner.
  
-####P = 0.025
-####D = 5.0
-####I = 0.002
+**P = 0.025**
+**D = 5.0**
+**I = 0.002**
 
 ##Speed = 70MPH:
 
